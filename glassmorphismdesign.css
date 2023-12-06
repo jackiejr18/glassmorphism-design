@@ -11,3 +11,11 @@
 	font-family: 'Pokemon Classic';
 	box-sizing: border-box;
 }
+
+.container {
+	width: 100%;
+	height: 100vh;
+	background-image: url(images/back.png);
+	background-position: center;
+	background-size: cover;
+}
