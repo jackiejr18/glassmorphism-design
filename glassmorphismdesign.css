@@ -31,3 +31,20 @@
 	padding: 50px 35px;
 	border: 1px solid rgba(255, 255, 255, 0.3);
 }
+
+.card img {
+	width: 140px;
+	border-radius: 50%;
+}
+
+.card h2 {
+	font-size: 40px;
+	font-weight: 600;
+	margin-top: 20px;
+}
+
+.card p {
+	font-size: 18px;
+	margin: 10px auto;
+	max-width: 330px;
+}
